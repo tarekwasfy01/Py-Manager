@@ -2,6 +2,7 @@
   <img width="300" height="300" alt="app_icon" src="https://github.com/user-attachments/assets/d6950a48-0d2c-423f-b894-5d9c952f1bba" />
 </div>
 
+
 # Py-Manager
 Python Manager and Anaconda Manager. This tool can list your installed apps and keeps them sorted. Install any python or conda package with only its name. No need for commands anymore. Best choise if you do not want to use code. Easy to use.
 
